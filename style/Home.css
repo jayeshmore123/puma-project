@@ -1,0 +1,48 @@
+.display{
+    display: flex;
+    margin-left: 500px;
+}
+.display1{
+    display: flex;
+}
+.center{
+    margin-left: 50px;
+    font-size: 20px;
+    margin-top: 100PX;
+    margin-right: 20px;
+    margin-left: 100px;
+}
+.font{
+    font-size: 30px;
+    text-align: center;
+}
+.img1{
+    margin-left: 180px;
+    height: 420px;
+    width:600px;
+}
+.back{
+    background-image: url(https://about.puma.com/sites/default/files/styles/dd_hero_ultra/public/media/hero/images/m21-rudolfdassler-landingpage.webp?itok=f6NhAAQo);
+height: 800px;
+width: 1500px;
+
+}
+.font-size{
+    font-size: 30px;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.left{
+    margin-left: 200px;
+    font-size: 20px;
+
+}
+.right{
+    margin-left: 20px;
+    font-size: 20px;
+}
+.font1{
+    font-size: 20px;
+    margin-top: 30px;
+}
